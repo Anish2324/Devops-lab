@@ -5,3 +5,5 @@ I am the King!!!
 I am the King!!!
 I am the King!!!
 I am the King!!!
+I am the King!!!
+I am the Devil!!!
